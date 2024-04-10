@@ -1,0 +1,10 @@
+{
+  "name": "Maya",
+  "version": "0.1.0",
+  "authors": ["Sean Bowman <pico303@gmail.com>"],
+  "description": "Maya theme for Zed",
+  "repository": "https://github.com/sbowman/maya.zed",
+  "themes": {
+    "Maya": "themes/maya.json"
+  }
+}
