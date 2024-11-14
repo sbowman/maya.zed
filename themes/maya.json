@@ -155,12 +155,12 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#505050",
+            "color": "#3f3f46",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#505050",
+            "color": "#3f3f46",
             "font_style": null,
             "font_weight": null
           },
